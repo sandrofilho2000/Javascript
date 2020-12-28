@@ -1,0 +1,15 @@
+body{
+    background-color: #4c97a5;
+    text-align: center;
+    
+}
+div#div{
+    background-color: rgb(255, 253, 249);
+    margin: auto;
+    text-align: left;
+    width: 300px;
+    height: 160px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px  black;
+    padding: 10px;
+}

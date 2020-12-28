@@ -1,0 +1,14 @@
+body{
+    background-color: #3be2ff;
+    text-align: center;
+    
+}
+div#div{
+    background-color: rgb(255, 253, 249);
+    margin: auto;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px  black;
+}

@@ -1,0 +1,18 @@
+body{
+    background-color: #4ea0af;
+    text-align: center;
+    
+}
+div#div{
+    background-color: rgb(255, 253, 249);
+    margin: auto;
+    text-align: left;
+    width: 450px;
+    height: 100px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px  black;
+    padding: 10px;
+}
+select{
+    width: 150px;
+}
